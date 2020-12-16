@@ -1,0 +1,33 @@
+.upperbody {
+  background-color: #ffffff;
+  margin-left: 2vw;
+  width: 59vw;
+  height: fit-content;
+  text-align: justify;
+  color: #636363;
+  border-radius: 1%;
+  border: 1px solid black;
+}
+.body {
+  margin-top: 2em;
+  background-color: #ffffff;
+  margin-left: 1vw;
+  width: 59vw;
+  height: fit-content;
+  text-align: justify;
+  margin-right: 2vw;
+  color: #636363;
+}
+
+.avatar {
+  background-color: #e54065;
+  border-radius: 50%;
+  width: 35px;
+  height: 45px;
+  /* color:#F4F5F9;  */
+  color: white;
+  text-transform: capitalize;
+  /* padding-left: .1em; */
+  margin-right: 15px;
+  margin-top: 30px;
+}
